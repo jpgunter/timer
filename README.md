@@ -1,1 +1,2 @@
-# timer
+# Timer
+This is a stupid simple timer app written in Java. You can set a timer using [ISO-8601 duration formats](https://en.wikipedia.org/wiki/ISO_8601#Durations) and with a custom message. When the timer goes off it will open a window on each monitor allowing you to dismiss or snooze the timer.
